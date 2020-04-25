@@ -1,0 +1,784 @@
+﻿ID_0;ISO;NAME_0;ID_1;NAME_1;ID_2;NAME_2;ID_3;NAME_3;ID_4;NAME_4;VARNAME_4;TYPE_4;ENGTYPE_4
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);1;Albánchez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);2;Albox;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);3;Alcóntar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);4;Arboleas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);5;Armuña de Almanzora;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);6;Bacares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);7;Bayarque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);8;Cantoria;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);9;Chercos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);10;Fines;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);11;Líjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);12;Lúcar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);13;Laroya;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);14;Macael;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);15;Olula del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);16;Oria;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);17;Partaloa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);18;Purchena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);19;Serón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);20;Sierro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);21;Somontín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);22;Suflí;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);23;Taberno;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);24;Tíjola;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);25;Urrácal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;1;n.a. (15);26;Zurgena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);27;Alcudia de Monteagud;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);28;Benitagla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);29;Benizalón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);30;Cóbdar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);31;Castro de Filabres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);32;Lubrín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);33;Lucainena de las Torres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);34;Olula de Castro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);35;Senés;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);36;Sorbas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);37;Tabernas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);38;Tahal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);39;Turrillas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);40;Uleila del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;2;n.a. (16);41;Velefique;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);42;Abla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);43;Abrucena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);44;Alboloduy;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);45;Alhabia;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);46;Alsodux;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);47;Fiñana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);48;Gérgal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);49;Las Tres Villas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);50;Nacimiento;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;3;n.a. (17);51;Santa Cruz de Marchena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);52;Alcolea;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);53;Alhama de Almería;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);54;Alicún;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);55;Almócita;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);56;Alsodux;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);57;Bayárcal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);58;Beires;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);59;Bentarique;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);60;Canjáyar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);61;Fondón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);62;Huécija;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);63;Illar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);64;Instinción;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);65;Láujar de Andarax;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);66;Ohanes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);67;Padules;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);68;Paterna del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);69;Rágol;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;4;n.a. (18);70;Terque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);71;Almería;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);72;Benahadux;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);73;Carboneras;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);74;Gádor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);75;Huércal de Almería;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);76;Níjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);77;Pechina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);78;Rioja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);79;Santa Fe de Mondújar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;5;n.a. (19);80;Viator;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);81;Adra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);82;Berja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);83;Dalías;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);84;El Ejido;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);85;Enix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);86;Felix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);87;La Mojonera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);88;Roquetas de Mar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;6;n.a. (20);89;Vícar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);90;Antas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);91;Bédar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);92;Cuevas del Almanzora;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);93;Garrucha;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);94;Huércal-Overa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);95;Los Gallardos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);96;Mojácar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);97;Pulpí;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);98;Turre;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;7;n.a. (21);99;Vera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;8;n.a. (22);100;Chirivel;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;8;n.a. (22);101;María;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;8;n.a. (22);102;Vélez-Blanco;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;1;Almería;8;n.a. (22);103;Vélez-Rubio;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;9;Bahía de Cádiz;104;Cádiz;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;9;Bahía de Cádiz;105;Chiclana de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;9;Bahía de Cádiz;106;El Puerto de Santa María;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;9;Bahía de Cádiz;107;Puerto Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;9;Bahía de Cádiz;108;San Fernando;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;10;Campiña de Jerez;109;Jerez de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;10;Campiña de Jerez;110;San José del Valle;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;111;Algeciras;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;112;Castellar de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;113;Jimena de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;114;La Línea de la Concepción;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;115;Los Barrios;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;116;San Roque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;11;Campo de Gibraltar;117;Tarifa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;12;Costa Noroeste;118;Chipiona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;12;Costa Noroeste;119;Rota;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;12;Costa Noroeste;120;Sanlúcar de Barrameda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;12;Costa Noroeste;121;Trebujena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;122;Alcalá de los Gazules;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;123;Barbate;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;124;Benalup-Casas Viejas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;125;Conil de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;126;Medina-Sidonia;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;127;Paterna de Rivera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;13;La Janda;128;Vejer de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;129;Alcalá del Valle;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;130;Algar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;131;Algodonales;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;132;Arcos de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;133;Benaocaz;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;134;Bornos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;135;El Bosque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;136;El Gastor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;137;Espera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;138;Grazalema;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;139;Jerez de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;140;Olvera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;141;Prado del Rey;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;142;Puerto Serrano;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;143;Setenil de las Bodegas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;144;Torre Alháquime;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;145;Ubrique;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;146;Villaluenga del Rosario;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;147;Villamartín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;2;Cádiz;14;Sierra de Cádiz;148;Zahara;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;149;Aguilar de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;150;Fernán-Núñez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;151;La Rambla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;152;Montalbán de Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;153;Montemayor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;154;Montilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;155;Monturque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;156;Moriles;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;157;Puente Genil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;15;Campiña Sur;158;Santaella;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);159;Añora;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);160;Alcaracejos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);161;Belalcázar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);162;Belmez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);163;Cardeña;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);164;Conquista;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);165;Dos Torres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);166;El Guijo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);167;El Viso;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);168;Fuente la Lancha;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);169;Fuente Obejuna;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);170;Hinojosa del Duque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);171;La Granjuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);172;Los Blázque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);173;Peñarroya-Pueblonuevo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);174;Pedroche;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);175;Pozoblanco;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);176;Santa Eufemia;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);177;Torrecampo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);178;Valsequillo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);179;Villanueva de Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);180;Villanueva del Duque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;16;n.a. (86);181;Villaralto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);182;Adamuz;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);183;Espiel;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);184;Hornachuelos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);185;Montoro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);186;Obejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);187;Villaharta;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);188;Villanueva del Rey;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;17;n.a. (87);189;Villaviciosa de Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);190;Almodóvar del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);191;Bujalance;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);192;Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);193;Cañete de las Torres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);194;Castro del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);195;El Carpio;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);196;Espejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);197;La Victoria;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);198;Pedro Abad;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);199;Posadas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);200;Villa del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;18;n.a. (88);201;Villafranca de Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;19;n.a. (89);202;Fuente Palmera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;19;n.a. (89);203;Palma del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);204;Almodóvar del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);205;Fuente Palmera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);206;Guadalcázar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);207;La Carlota;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);208;La Rambla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);209;La Victoria;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;20;n.a. (90);210;San Sebastián de los Ballesteros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);211;Baena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);212;Benamejí;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);213;Cabra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);214;Doña Mencía;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);215;Encinas Reales;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);216;Lucena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);217;Nueva Carteya;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);218;Palenciana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;21;n.a. (91);219;Valenzuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);220;Almedinilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);221;Carcabuey;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);222;Fuente-Tójar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);223;Iznájar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);224;Luque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);225;Priego de Córdoba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);226;Rute;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;3;Córdoba;22;n.a. (92);227;Zuheros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);228;Castilléjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);229;Castril;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);230;Galera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);231;Huéscar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);232;Orce;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;23;n.a. (109);233;Puebla de Don Fadrique;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;24;n.a. (110);234;Algarinejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;24;n.a. (110);235;Illora;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;24;n.a. (110);236;Moclín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;24;n.a. (110);237;Montefrío;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);238;Baza;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);239;Benamaurel;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);240;Caniles;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);241;Cúllar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);242;Cortes de Baza;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);243;Cuevas del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);244;Freila;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;25;n.a. (111);245;Zújar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);246;Albuñán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);247;Aldeire;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);248;Alicún de Ortega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);249;Alquife;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);250;Beas de Guadix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);251;Benalúa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);252;Cogollos de Guadix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);253;Cortes y Graena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);254;Dólar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);255;Darro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);256;Dehesas de Guadix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);257;Diezma;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);258;Ferreira;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);259;Fonelas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);260;Freila;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);261;Gorafe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);262;Gor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);263;Guadix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);264;Huélago;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);265;Huéneja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);266;Jerez del Marquesado;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);267;La Calahorra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);268;La Peza;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);269;Lanteira;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);270;Lugros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);271;Marchal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);272;Polícar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);273;Purullena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);274;Valle del Zalabí;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;26;n.a. (112);275;Villanueva de las Torres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);276;Albolote;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);277;Alfacar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);278;Alhendín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);279;Armilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);280;Atarfe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);281;Beas de Granada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);282;Cájar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);283;Calicasas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);284;Cúllar Vega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);285;Cenes de la Vega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);286;Chauchina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);287;Churriana de la Vega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);288;Cijuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);289;Cogollos de la Vega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);290;Dílar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);291;Dúdar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);292;Fuente Vaqueros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);293;Güejar Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);294;Güevéjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);295;Gójar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);296;Granada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);297;Huétor de Santillán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);298;Huétor Tájar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);299;Huétor Vega;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);300;Jun;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);301;La Zubia;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);302;Láchar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);303;Las Gabias;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);304;Loja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);305;Maracena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);306;Monachil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);307;Moraleda de Zafayona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);308;Nívar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);309;Ogíjares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);310;Otura;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);311;Peligros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);312;Pinos Genil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);313;Pinos Puente;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);314;Pulianas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);315;Quéntar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);316;Salar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);317;Santa Fe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);318;Víznar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);319;Vegas del Genil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);320;Villanueva Mesía;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;27;n.a. (113);321;Zagra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);322;Agrón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);323;Alhama de Granada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);324;Arenas del Rey;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);325;Cacín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);326;Chimeneas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);327;Escúzar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);328;Jayena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);329;La Malahá;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);330;Santa Cruz del Comercio;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);331;Ventas de Huelma;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;28;n.a. (114);332;Zafarraya;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);333;Albuñuelas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);334;Dúrcal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);335;El Pinar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);336;El Valle;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);337;Lecrín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);338;Nigüelas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);339;Padul;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;29;n.a. (115);340;Villamena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);341;Albondón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);342;Albuñol;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);343;Almuñécar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);344;Gualchos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);345;Itrabo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);346;Jete;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);347;Lújar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);348;Lentegí;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);349;Los Guajares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);350;Molvízar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);351;Motril;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);352;Otívar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);353;Polopos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);354;Rubite;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);355;Salobreña;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);356;Sorvilán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;30;n.a. (116);357;Vélez de Benaudalla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);358;Órgiva;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);359;Almegíjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);360;Alpujarra de la Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);361;Bérchules;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);362;Bubión;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);363;Busquístar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);364;Cáñar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);365;Cádiar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);366;Cástaras;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);367;Capileira;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);368;Carataunas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);369;Juviles;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);370;La Taha;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);371;Lanjarón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);372;Lobras;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);373;Murtas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);374;Nevada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);375;Pórtugos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);376;Pampaneira;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);377;Soportújar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);378;Torvizcón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);379;Trevélez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);380;Turón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);381;Ugíjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;31;n.a. (117);382;Válor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);383;Alamedilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);384;Benalúa de las Villas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);385;Campotéjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);386;Colomera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);387;Dehesas de Guadix;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);388;Deifontes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);389;Gobernador;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);390;Guadahortuna;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);391;Iznalloz;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);392;Montejícar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);393;Montillana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);394;Morelábor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);395;Píñar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);396;Pedro Martínez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;4;Granada;32;n.a. (118);397;Torre-Cardela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);398;Alájar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);399;Almonaster la Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);400;Aracena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);401;Aroche;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);402;Arroyomolinos de León;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);403;Cañaveral de León;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);404;Cala;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);405;Castaño del Robledo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);406;Corteconcepción;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);407;Cortegana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);408;Cortelazor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);409;Cumbres de Enmedio;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);410;Cumbres de San Bartolomé;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);411;Cumbres Mayores;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);412;Encinasola;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);413;Fuenteheridos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);414;Galaroza;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);415;Higuera de la Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);416;Hinojales;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);417;Jabugo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);418;La Nava;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);419;Linares de la Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);420;Los Marines;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);421;Puerto Moral;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);422;Rosal de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);423;Santa Ana la Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);424;Santa Olalla del Cala;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);425;Valdelarco;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;33;n.a. (133);426;Zufre;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);427;Alosno;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);428;Ayamonte;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);429;Cabezas Rubias;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);430;El Almendro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);431;El Cerro de Andévalo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);432;El Granado;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);433;Paymogo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);434;Puebla de Guzmán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);435;San Bartolomé de la Torre;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);436;San Silvestre de Guzmán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);437;Sanlúcar de Guadiana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);438;Santa Bárbara de Casa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);439;Villablanca;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);440;Villanueva de las Cruces;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;34;n.a. (134);441;Villanueva de los Castillejos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);442;Berrocal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);443;Calañas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);444;Campofrío;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);445;El Campillo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);446;La Granada de Río-Tinto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);447;Minas de Riotinto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);448;Nerva;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);449;Valverde del Camino;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;35;n.a. (135);450;Zalamea la Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);451;Aljaraque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);452;Cartaya;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);453;Gibraleón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);454;Isla Cristina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);455;Lepe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);456;Moguer;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;36;n.a. (136);457;Punta Umbría;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;37;n.a. (137);458;Almonte;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;37;n.a. (137);459;Hinojos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;37;n.a. (137);460;Huelva;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;37;n.a. (137);461;Lucena del Puerto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;37;n.a. (137);462;Moguer;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);463;Beas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);464;Bollullos Par del Condado;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);465;Bonares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);466;Chucena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);467;Escacena del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);468;La Palma del Condado;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);469;Manzanilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);470;Niebla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);471;Paterna del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);472;Rociana del Condado;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);473;San Juan del Puerto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);474;Trigueros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);475;Villalba del Alcor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;5;Huelva;38;n.a. (138);476;Villarrasa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;477;Fuensanta de Martos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;478;Fuerte del Rey;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;479;Higuera de Calatrava;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;480;Jaén;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;481;Jamilena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;482;La Guardia de Jaén;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;483;Los Villares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;484;Mancha Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;485;Martos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;486;Mengíbar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;487;Porcuna;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;488;Santiago de Calatrava;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;489;Torre del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;490;Torreblascopedro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;491;Torredonjimeno;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;492;Villardompardo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;39;Área metropolitana de Jaén;493;Villatorres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;494;Cazorla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;495;Chilluévar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;496;Hinojares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;497;Huesa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;498;La Iruela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;499;Peal de Becerro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;500;Pozo Alcón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;501;Quesada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;40;Alto Guadalquivir;502;Santo Tomé;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;503;Andújar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;504;Arjona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;505;Arjonilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;506;Cazalilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;507;Escañuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;508;Espelúy;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;509;Lahiguera;Higuera de Arjona;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;510;Lopera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;511;Marmolejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;41;Campiña;512;Villanueva de la Reina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;513;Arquillos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;514;Úbeda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;515;Castellar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;516;Chiclana de Segura;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;517;Montizón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;518;Navas de San Juan;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;519;Santisteban del Puerto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;520;Sorihuela del Guadalimar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;42;El Condado;521;Vilches;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;522;Úbeda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;523;Baeza;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;524;Begíjar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;525;Canena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;526;Ibros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;527;Iznatoraf;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;528;Lupión;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;529;Rus;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;530;Sabiote;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;531;Sorihuela del Guadalimar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;532;Torreperogil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;533;Villacarrillo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;43;Lalomay Lasvillas;534;Villanueva del Arzobispo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;535;Arroyo del Ojanco;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;536;Beas de Segura;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;537;Benatae;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;538;Comunidad de Benatae y Torres de Albánchez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;539;Génave;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;540;Hornos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;541;La Puerta de Segura;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;542;Orcera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;543;Puente de Génave;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;544;Santiago-Pontones;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;545;Segura de la Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;546;Siles;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;547;Torres de Albánchez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;44;Sierra De Segura;548;Villarrodrigo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;549;Albanchez de Mágina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;550;Bélmez de la Moraleda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;551;Bedmar y Garcíez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;552;Cárcheles;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;553;Cabra del Santo Cristo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;554;Cambil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;555;Campillo de Arenas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;556;Huelma;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;557;Jódar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;558;Jimena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;559;Larva;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;560;Noalejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;561;Pegalajar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;45;Sierra Magina;562;Torres;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;563;Aldeaquemada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;564;Baños de la Encina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;565;Bailén;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;566;Carboneros;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;567;Guarromán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;568;Jabalquinto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;569;La Carolina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;570;Linares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;46;Sierra Norte;571;Santa Elena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;47;Sierra Sur;572;Alcalá la Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;47;Sierra Sur;573;Alcaudete;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;47;Sierra Sur;574;Castillo de Locubín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;47;Sierra Sur;575;Frailes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;6;Jaén;47;Sierra Sur;576;Valdepeñas de Jaén;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);577;Árchez;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);578;Alcaucín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);579;Algarrobo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);580;Almáchar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);581;Arenas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);582;Benamargosa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);583;Benamocarra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);584;Cómpeta;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);585;Canillas de Aceituno;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);586;Canillas de Albaida;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);587;Cútar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);588;Comares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);589;El Borge;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);590;Frigiliana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);591;Iznate;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);592;Málaga;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);593;Macharaviaya;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);594;Moclinejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);595;Nerja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);596;Periana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);597;Rincón de la Victoria;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);598;Salares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);599;Sayalonga;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);600;Sedella;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);601;Torrox;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);602;Totalán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);603;Vélez-Málaga;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;48;n.a. (181);604;Viñuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);605;Alameda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);606;Alfarnatejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);607;Alfarnate;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);608;Almargen;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);609;Antequera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);610;Archidona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);611;Ardales;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);612;Cañete la Real;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);613;Campillos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);614;Casabermeja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);615;Colmenar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);616;Cuevas Bajas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);617;Cuevas de San Marcos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);618;Cuevas del Becerro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);619;Fuente de Piedra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);620;Humilladero;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);621;Mollina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);622;Riogordo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);623;Sierra de Yeguas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);624;Teba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);625;Villanueva de Algaidas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);626;Villanueva de Tapia;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);627;Villanueva del Rosario;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;49;n.a. (182);628;Villanueva del Trabuco;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);629;Algatocín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);630;Alpandeire;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);631;Arriate;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);632;Atajate;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);633;Benadalid;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);634;Benalauría;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);635;Benaoján;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);636;Benarrabá;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);637;Cartajima;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);638;Cortes de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);639;El Burgo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);640;Faraján;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);641;Gaucín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);642;Igualeja;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);643;Júzcar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);644;Jimera de Líbar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);645;Jubrique;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);646;Montejaque;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);647;Parauta;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);648;Pujerra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;50;n.a. (183);649;Ronda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);650;Álora;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);651;Alhaurín de la Torre;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);652;Alhaurín el Grande;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);653;Almogía;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);654;Alozaina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);655;Benahavís;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);656;Benalmádena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);657;Cártama;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);658;Carratraca;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);659;Casarabonela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);660;Casares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);661;Coín;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);662;Estepona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);663;Fuengirola;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);664;Genalguacil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);665;Guaro;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);666;Istán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);667;Málaga;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);668;Manilva;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);669;Marbella;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);670;Mijas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);671;Monda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);672;Ojén;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);673;Pizarra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);674;Tolox;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);675;Torremolinos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);676;Valle de Abdalajís;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;7;Málaga;51;n.a. (184);677;Yunquera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);678;Alanís;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);679;Almadén de la Plata;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);680;Aznalcóllar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);681;Castilblanco de los Arroyos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);682;Cazalla de la Sierra;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);683;Constantina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);684;El Castillo de las Guardas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);685;El Garrobo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);686;El Madroño;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);687;El Pedroso;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);688;El Real de la Jara;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);689;El Ronquillo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);690;Gerena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);691;Guadalcanal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);692;Guillena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);693;La Puebla de los Infantes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);694;Las Navas de la Concepción;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;52;n.a. (226);695;San Nicolás del Puerto;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);696;Écija;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);697;Alcalá de Guadaíra;Alcalá de Guadaira;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);698;Arahal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);699;Cañada Rosal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);700;Carmona;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);701;El Coronil;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);702;El Cuervo de Sevilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);703;El Rubio;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);704;El Viso del Alcor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);705;Fuentes de Andalucía;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);706;La Campana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);707;La Lantejuela;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);708;La Luisiana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);709;Las Cabezas de San Juan;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);710;Lebrija;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);711;Los Molares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);712;Mairena del Alcor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);713;Marchena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);714;Osuna;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);715;Paradas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;53;n.a. (227);716;Utrera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);717;Alcalá del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);718;Alcolea del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);719;Brenes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);720;Burguillos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);721;Cantillana;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);722;Coria del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);723;Dos Hermanas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);724;La Algaba;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);725;La Rinconada;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);726;Lora del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);727;Los Palacios y Villafranca;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);728;Peñaflor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);729;San Juan de Aznalfarache;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);730;Santiponce;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);731;Sevilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);732;Tocina;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);733;Villanueva del Río y Minas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;54;n.a. (228);734;Villaverde del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);735;Albaida del Aljarafe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);736;Almensilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);737;Benacazón;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);738;Bollullos de la Mitación;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);739;Bormujos;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);740;Camas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);741;Carrión de los Céspedes;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);742;Castilleja de Guzmán;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);743;Castilleja de la Cuesta;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);744;Castilleja del Campo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);745;Espartinas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);746;Gelves;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);747;Gines;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);748;Huévar del Aljarafe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);749;Mairena del Aljarafe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);750;Olivares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);751;Palomares del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);752;Pilas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);753;Salteras;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);754;Sanlúcar la Mayor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);755;Sevilla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);756;Tomares;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);757;Umbrete;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);758;Valencina de la Concepción;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;55;n.a. (229);759;Villanueva del Ariscal;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;56;n.a. (230);760;Aznalcázar;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;56;n.a. (230);761;Isla Mayor;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;56;n.a. (230);762;La Puebla del Río;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;56;n.a. (230);763;Villamanrique de la Condesa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);764;Aguadulce;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);765;Badolatosa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);766;Casariche;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);767;Estepa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);768;Gilena;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);769;Herrera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);770;La Roda de Andalucía;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);771;Lora de Estepa;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);772;Marinaleda;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;57;n.a. (231);773;Pedrera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);774;Algámitas;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);775;Coripe;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);776;El Saucejo;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);777;La Puebla de Cazalla;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);778;Los Corrales;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);779;Martín de la Jara;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);780;Montellano;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);781;Morón de la Frontera;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);782;Pruna;;Municipality;Municipality
+215;ESP;Spain;1;Andalucía;8;Sevilla;58;n.a. (232);783;Villanueva de San Juan;;Municipality;Municipality
